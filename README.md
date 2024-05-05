@@ -32,6 +32,7 @@ Link Video Ini (Copy link ini) :
 4. Dilarang nge fork repository ini 🗿
 5. Tidak diperbolehkan untuk mengupload ulang file (baik itu upload ke mediafire, gdrive, terabox, dll) atau menautkan ulang link repository ini sebagai URL yang dimonetisasi atau semacamnya
 6. Untuk shortlink seperti bit.ly atau s.id aku izinkan (tetapi gak boleh melakukan hal pada poin 3 dan 5)
+<<<<<<< HEAD
 
 ## DOWNLOAD
 
@@ -72,6 +73,8 @@ Lokasi File : ```%USERPROFILE%\AppData\Local\Packages\Microsoft.MinecraftWindows
 
 5. Setelah itu buka Minecraft dan cek di Dressing room pada bagian main menu untuk memastikan apakah skinpack nya terbaca atau tidak
 6. Selesai
+=======
+>>>>>>> e9d44b93f6010b7366676f293f98d578c8474486
 
 ## Pertanyaan
 
