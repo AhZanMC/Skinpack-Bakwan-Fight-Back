@@ -1,0 +1,114 @@
+{
+    "serialize_name": "SkinPacks",
+    "localization_name": "SkinPacks",
+    "skins": [
+      {
+        "localization_name": "1",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Ian.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "2",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Adela.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "3",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Agatha.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "4",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "BeaconCream.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "5",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Rere.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "6",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Jeje.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "7",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Niko.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "8",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Langit.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "9",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Bhima.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "10",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Medi.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "11",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Adnan.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "12",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Odo.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "13",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Peywish.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "14",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Selena.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "15",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "Selina.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "16",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Raka.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "17",
+        "geometry": "geometry.humanoid.customSlim",
+        "texture": "VeraDinita.png",
+        "type": "free"
+      },
+      {
+        "localization_name": "18",
+        "geometry": "geometry.humanoid.custom",
+        "texture": "Arshaka.png",
+        "type": "free"
+      }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header": {
+      "name": "SkinPack Bakwan Fight Back (by AhZanMC)",
+      "version": [1, 0, 0],
+      "uuid": "e8b3df08-c32b-4672-b530-993cab2dbb81"
+    },
+    "modules": [
+      {
+        "version": [1, 0, 0],
+        "type": "skin_pack",
+        "uuid": "490e4e70-3bbf-4215-9145-1a4026333f04"
+      }
+    ],
+    "format_version": 2
+}
