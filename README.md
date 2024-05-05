@@ -18,7 +18,7 @@ Creator : [AhZanMC](https://bio-link.ahzanmc.my.id/)
 
 ## Pesan Buat Youtuber/Content Creator
 1. Tolong letakkan link repository github ini sebagai **"Link Download"**
-   ``Link Repository Github Ini : https://github.com/AhZanMC/Skinpack-Bakwan-Fight-Back (Copy link ini)``
+``Link Repository Github Ini : https://github.com/AhZanMC/Skinpack-Bakwan-Fight-Back (Copy link ini)``
 2. Letakkan link channelku sebagai credit atau link videoku (Opsional)
 3. DILARANG KERAS RELINK, HARGAI YANG BIKIN
 4. Dilarang nge fork repository ini 🗿
