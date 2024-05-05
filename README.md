@@ -23,7 +23,7 @@ Creator : [AhZanMC](https://bio-link.ahzanmc.my.id/)
 3. DILARANG KERAS RELINK, HARGAI YANG BIKIN
 4. Dilarang nge fork repository ini 🗿
 5. Tidak diperbolehkan untuk mengupload ulang file (baik itu upload ke mediafire, gdrive, terabox, dll) atau menautkan ulang link repository ini sebagai URL yang dimonetisasi atau semacamnya
-6. Untuk shortlink seperti bit.ly atau s.id aku izinkan (tetapi gak boleh melakukan hal pada poin 2 dan 4)
+6. Untuk shortlink seperti bit.ly atau s.id aku izinkan (tetapi gak boleh melakukan hal pada poin 3 dan 5)
 
 ## Pertanyaan
 Jika ada pertanyaan tentang repository ini kamu bisa DM ig @ahzanmc
