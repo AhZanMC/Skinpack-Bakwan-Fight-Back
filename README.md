@@ -3,6 +3,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhZanMC" alt="AhZanMC" /></p>
 <p align="center"> <img src="https://static.wikia.nocookie.net/minecraftid/images/3/3c/Bakwan_FightBack_Logo.png/revision/latest/scale-to-width-down/300?cb=20240229113153&path-prefix=id" alt="Bakwan" /></p>
 
+![Maintainer](https://img.shields.io/badge/Author-AhZanMC-yellow)
+[![Generic badge](https://img.shields.io/badge/Release-version1-purple.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/UpdatedAt-Monday,_April_05,_2024-purple.svg)](https://shields.io/)
+
+![Generic Badge](https://img.shields.io/github/downloads/AhZanMC/Skinpack-Bakwan-Fight-Back/total) ![Size](https://img.shields.io/github/repo-size/AhZanMC/Skinpack-Bakwan-Fight-Back)
+
+
 <p align="center"> 
     <a href="https://github.com/AhZanMC/Skinpack-Bakwan-Fight-Back/releases/download/Released/">Download</a> |
     <a href="https://bio-link.ahzanmc.my.id/">Creator</a> |
