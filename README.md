@@ -35,9 +35,8 @@ Link Video Ini (Copy link ini) :
 
 2. Letakkan link channelku atau tag channelku sebagai credit (Opsional)
 3. DILARANG KERAS RELINK, HARGAI YANG BIKIN
-4. Dilarang nge fork repository ini 🗿
-5. Tidak diperbolehkan untuk mengupload ulang file (baik itu upload ke mediafire, gdrive, terabox, dll) atau menautkan ulang link repository ini sebagai URL yang dimonetisasi atau semacamnya.
-6. Untuk shortlink seperti bit.ly atau s.id aku izinkan (tetapi gak boleh melakukan hal pada poin 3 dan 5)
+4. Tidak diperbolehkan untuk mengupload ulang file (baik itu upload ke mediafire, gdrive, terabox, dll) atau menautkan ulang link repository ini sebagai URL yang dimonetisasi atau semacamnya.
+5. Untuk shortlink seperti bit.ly atau s.id aku izinkan (tetapi gak boleh melakukan hal pada poin 3 dan 5)
 
 ## DOWNLOAD
 
